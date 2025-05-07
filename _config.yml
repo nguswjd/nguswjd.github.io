@@ -17,7 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "인생 첫 프론트앤드 뿌시기"
+tab_title                : "인생 첫 프론트앤드 뿌시기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -113,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "남현정"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "🏫 아주대학교 재학중<br/>전공:소프트웨어학과, 복수전공:디지털미디어학과"
+  location         : "Jeju, South Korea"
+  email            : "nguswjd02@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
